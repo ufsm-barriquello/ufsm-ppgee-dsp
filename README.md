@@ -1,4 +1,4 @@
-# UFSM-PPGEE-ELC919-DSP class
-Digital signal processing - final class works
+# UFSM-PPGEE-DSP class
+Digital signal processing - final project works
 
 Coding languages: MATLAB/Octave, Python, C/C++
